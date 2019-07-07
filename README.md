@@ -1,3 +1,4 @@
+置顶。
 # Tumo Blog 
 
 ![](http://cdn.tycoding.cn/tumo.png)
